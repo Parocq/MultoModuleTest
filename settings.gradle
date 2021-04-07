@@ -1,0 +1,4 @@
+include ':appmodule2'
+include ':resmodule'
+include ':appmodule'
+rootProject.name = "MultoModuleTest"

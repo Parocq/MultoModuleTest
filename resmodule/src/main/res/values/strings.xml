@@ -1,0 +1,4 @@
+<resources>
+    <string name="label">standard label (res module)</string>
+    <string name="defaultLabel">No override label from res</string>
+</resources>
